@@ -1,8 +1,8 @@
 
 # Particle in a box - Schroedinger equation deep learning project
+## Version 2: 17 March 2020
 ## [Undergrad Dissertation](https://drive.google.com/file/d/1MltTv748UrTBg3vwkHFqHqYOOxciHeHZ/view)
-# Version 2: 17 March 2020
-## Anubhav Sethi, anubhav.mca19.du@gmail.com
+### Anubhav Sethi, anubhav.mca19.du@gmail.com
 This project uses Tensorflow to first generate random 1-D potentials, then solve them using
 gradient descent. These potentials and solutions are partitioned into training and validation data.
 Next, the training data are fed into a simple neural network with 2 hidden layers that use
